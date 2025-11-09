@@ -1,0 +1,57 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# Paquetes NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Archivos de configuración y logs
+*.log
+*.tlog
+*.vssscc
+*.vspscc
+
+# Archivos de publicación
+publish/
+*.pubxml
+*.publishproj
+
+# Archivos de depuración
+*.pdb
+*.mdb
+
+# Archivos generados por diseño
+*.Designer.cs
+*.Generated.cs
+
+# Archivos de configuración de usuario
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+# Archivos de test y resultados
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Otros
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+.idea/
+*.sln.ide
+
+# Archivos de configuración de entorno
+.env
